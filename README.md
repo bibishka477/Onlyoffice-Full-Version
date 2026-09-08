@@ -237,3 +237,6 @@ This repository serves as the official landing page for ONLYOFFICE Desktop Edito
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ONLYOFFICE Desktop Editors today!**
+
+---
+**Last updated:** 2026-09-08 17:51:31 UTC
