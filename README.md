@@ -239,4 +239,4 @@ This repository serves as the official landing page for ONLYOFFICE Desktop Edito
 **Get the most recent version of ONLYOFFICE Desktop Editors today!**
 
 ---
-**Last updated:** 2026-09-19 04:16:53 UTC
+**Last updated:** 2026-09-19 09:20:06 UTC
